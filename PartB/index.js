@@ -25,7 +25,7 @@ console.log(primeNumbers);
 
 // // using reduce
 let sum = nums.reduce(fraction(accumulator, currentNum) {
-    return accumulator + currentNum,
+    return accumulator + currentNum;
 }, 0);
 
 console.log(sum);
@@ -36,6 +36,7 @@ let sortedDescending = [...nums].sort (functions(a,b) {
 });
 
 console.log(sortedDescending);
+
 
 
 // Q.9
