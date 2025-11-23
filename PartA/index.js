@@ -67,4 +67,3 @@ let emp = {
 
 let role= emp.details?.profile?.role;
 
-console.log(emp.details.profile.role);
